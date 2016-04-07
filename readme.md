@@ -1,10 +1,17 @@
+# Misc
 * [misc/alphabet](./misc/alphabet/solve.md) 
 * [misc/terror](./misc/terror/solve.md) 
 * [misc/star_qrs](./misc/star_qrs/solve.md) 
 * [misc/Grey_box](./misc/Grey_box/solve.md) 
+
+# Revers
 * [reverse/hande_hoch](./reverse/hande_hoch/solve.md) 
+
+# Joy
 * [joy/watches](./joy/watches/solve.md) 
 * [joy/little_photo](./joy/little_photo/solve.md) 
+
+# PPC
 * [ppc/crazyscientist](./ppc/crazyscientist/solve.md) 
 * [ppc/crime_scene](./ppc/crime_scene/solve.md) 
 * [ppc/bitwise](./ppc/bitwise/solve.md) 
@@ -13,6 +20,8 @@
 * [ppc/coolcipher](./ppc/coolcipher/solve.md) 
 * [ppc/bip_bip](./ppc/bip_bip/solve.md) 
 * [ppc/sea](./ppc/sea/solve.md) 
+
+# Recon
 * [recon/operation_argo](./recon/operation_argo/solve.md) 
 * [recon/tour](./recon/tour/solve.md) 
 * [recon/task_development](./recon/task_development/solve.md) 
@@ -20,6 +29,8 @@
 * [recon/little_hero](./recon/little_hero/solve.md) 
 * [recon/music_artist](./recon/music_artist/solve.md) 
 * [recon/island](./recon/island/solve.md) 
+
+# Web
 * [web/Caesar_is_alive!](./web/Caesar_is_alive!/solve.md) 
 * [web/stupid_admin](./web/stupid_admin/solve.md) 
 * [web/log_for_admin](./web/log_for_admin/solve.md) 
@@ -37,6 +48,8 @@
 * [web/treasures](./web/treasures/solve.md) 
 * [web/mes_lover](./web/mes_lover/solve.md) 
 * [web/stylish_flag](./web/stylish_flag/solve.md) 
+
+# Forensic
 * [forensic/mydoc](./forensic/mydoc/solve.md) 
 * [forensic/ufodump](./forensic/ufodump/solve.md) 
 * [forensic/searchforsomething](./forensic/searchforsomething/solve.md) 
@@ -44,6 +57,8 @@
 * [forensic/fusion_data](./forensic/fusion_data/solve.md) 
 * [forensic/find_me](./forensic/find_me/solve.md) 
 * [forensic/coordinates](./forensic/coordinates/solve.md) 
+
+# Crypto
 * [crypto/triangulum](./crypto/triangulum/solve.md) 
 * [crypto/rotate_it](./crypto/rotate_it/solve.md) 
 * [crypto/strange_message](./crypto/strange_message/solve.md) 
@@ -60,6 +75,8 @@
 * [crypto/ratsel](./crypto/ratsel/solve.md) 
 * [crypto/zigzag](./crypto/zigzag/solve.md) 
 * [crypto/wow,such_predictive!](./crypto/wow,such_predictive!/solve.md) 
+
+# Stegano
 * [stegano/3part](./stegano/3part/solve.md) 
 * [stegano/i_love_png](./stegano/i_love_png/solve.md) 
 * [stegano/listen_to_alien's_heart](./stegano/listen_to_alien's_heart/solve.md) 
